@@ -1,0 +1,35 @@
+DAY 2 NOTES 
+WHU ROUTING?
+
+when no routing --> 
+1.hit refresh u r lost
+2.cannot bookmark
+
+when routing e.g about page, contact page , home page
+1. organised
+2.easy of access
+3. sharing is caring
+4.secure route
+
+Routing in old web apps
+time delay from page to page
+
+to install react router dom
+npm i react-router-dom
+
+
+mv rathu movie kku prop pa pass aagi  antha prop pa movie component la vangi irukom
+
+conditional rendering antha elememt ta dom vite thookirum ( example : false sa irukum pothu
+ inspect panna summary kammikathu)
+
+ ----------------
+ setcolor
+
+ type panrom onchange trigger aaguthu , onchnage vandhu setcolor trigger pannuithu ,
+ setcolor la namma type panna value iruku , setcolor react kita poi inform pannum color poi change pannaum nu
+
+------------------------
+routing setup
+
+npm i react-router-dom
